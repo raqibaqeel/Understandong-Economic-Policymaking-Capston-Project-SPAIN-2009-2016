@@ -8,26 +8,26 @@ Welcome to my capstone project on SPAIN CASE STUDY BETWEEN 2009 TO 2016, that is
 TASK:
 In this Capstone Project I will have to analyse Spain for either the period of 2000-2008 or the period of 2009-2016. 
 I will answer the following questions for the period, I have chosen 2009-2016 by simply studying the data, by graphing and observing it 
-**1. Was the country in an inflationary or a recessionary gap in this period?**  
-**2. Did unemployment and inflation rates behave as expected for the type of gap you have identified above?** 
-**3.  Did the country´s authorities follow an appropriate fiscal policy in this period?**
-**4. Did the public debt in this period represent a risk?**
-**5. Did the country´s authorities follow an appropriate monetary policy in this period?**
-**6. If you were to advise a potential investor in Spain during the period you have chosen, what would you highlight as the key risks and opportunities?**   
++ 1. Was the country in an inflationary or a recessionary gap in this period? 
++ 2. Did unemployment and inflation rates behave as expected for the type of gap you have identified above?
++ 3.  Did the country´s authorities follow an appropriate fiscal policy in this period?
++ 4. Did the public debt in this period represent a risk?
++ 5. Did the country´s authorities follow an appropriate monetary policy in this period?
++ 6. If you were to advise a potential investor in Spain during the period you have chosen, what would you highlight as the key risks and opportunities?  
 
 # DATA:
 
 The data is available on OECD website ( www.oecd.org ) and search for the latest OECD Economic Outlook: Statistics and Projections. This data source includes some future data, based on the organization´s projections, and it is an outstanding compilation of all sorts of macroeconomic data of relevance to economists and policymakers.  
 The appropriate link to access the data, the exact link is ( http://stats.oecd.org/viewhtml.aspx?datasetcode=EO103_INTERNET&lang=en ). In the Customize tab at the far left, go to Selection and select Country: Spain and then at Time & Frequency, the time period I have chosen (2009-2016). For variables under that same tab, I will have to select all of the following:
- **1. GDP Growth (Gross domestic product, volume growth).**  
- **2. Underlying or core inflation rate (Harmonized core inflation).** 
- **3. Headline or CPI inflation rate (Harmonized headline inflation).** 
- **4. Unemployment rate.** 
- **5. Recessionary or inflationary gaps (Output gap as a percentage of potential GDP).** 
- **6. Fiscal deficit (General government net lending as a percentage of GDP).** 
- **7. Fiscal debt (Gross public debt; Maastricht criterion as a percentage of GDP).** 
- **8. Debt service (Net general government interest payments as a percentage of GDP).** 
- **9. Short-term interest rate.**
+ + 1. GDP Growth (Gross domestic product, volume growth).  
+ + 2. Underlying or core inflation rate (Harmonized core inflation).
+ + 3. Headline or CPI inflation rate (Harmonized headline inflation).
+ + 4. Unemployment rate.
+ + 5. Recessionary or inflationary gaps (Output gap as a percentage of potential GDP). 
+ + 6. Fiscal deficit (General government net lending as a percentage of GDP).
+ + 7. Fiscal debt (Gross public debt; Maastricht criterion as a percentage of GDP).
+ + 8. Debt service (Net general government interest payments as a percentage of GDP).
+ + 9. Short-term interest rate.
 
 # ANALYZE STEP:
 Let’s Analyse the Economic situation of Spain during the year between 2009- 29016 by giving answers above the following questions: 
@@ -48,15 +48,15 @@ For this question, I will use Output gap as a percentage of potential GDP data f
  According to OECD Data, which is output gap as a percentage of potential GDP that measure whether Spain is experiencing an inflationary gap or recessionary gap, in this period 2009-2016, the value of output gap was in negative throughout the period. Thus, the Spain was experiencing recessionary gap.
 
 ## QUESTION No. 2
-### Did unemployment and inflation rates behave as expected for the type of gap you have       identified above? 
+### Did unemployment and inflation rates behave as expected for the type of gap you have identified above? 
 
 ## Answer 2: 
 
 I will use these three data to answer the question, all the data are available in the OECD website  
  
-**1.Underlying or core inflation rate (Harmonized core inflation).** 
-**2. Headline or CPI inflation rate (Harmonized headline inflation).** 
-**3. Unemployment rate.**
++ 1.Underlying or core inflation rate (Harmonized core inflation). 
++ 2. Headline or CPI inflation rate (Harmonized headline inflation). 
++ 3. Unemployment rate.
 
 ![image](https://user-images.githubusercontent.com/90096554/143864697-0577d39d-1919-4695-aa95-40acdaf20a07.png)
 
