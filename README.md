@@ -5,7 +5,7 @@
 ## DATE: 01/11/2021
 # INTRODUCTION: 
 Welcome to my capstone project on SPAIN CASE STUDY BETWEEN 2009 TO 2016, that is part of course Understanding Economy Policy on coursera platform that is part of specialization course on Globalization, Economic Growth and Stability Specialization.
-TASK:
+## TASK:
 In this Capstone Project I will have to analyse Spain for either the period of 2000-2008 or the period of 2009-2016. 
 I will answer the following questions for the period, I have chosen 2009-2016 by simply studying the data, by graphing and observing it 
 + 1. Was the country in an inflationary or a recessionary gap in this period? 
