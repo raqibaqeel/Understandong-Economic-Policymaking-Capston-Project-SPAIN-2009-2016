@@ -4,7 +4,7 @@
 ## AUTHOR: RAQIB AQEEL
 ## DATE: 01/11/2021
 # INTRODUCTION: 
-Welcome to my capstone project on SPAIN CASE STUDY BETWEEN 2009 TO 2016, that is part of specialization on Globalization, Economic Growth and Stability Specialization course Understanding Economy Policy on coursera platform.
+Welcome to my capstone project on SPAIN CASE STUDY BETWEEN 2009 TO 2016, that is part of specialization on Globalization, Economic Growth and Stability course-1 (one) Understanding Economy Policy on coursera platform.
 ## TASK:
 In this Capstone Project I will have to analyse Spain for either the period of 2000-2008 or the period of 2009-2016. 
 I will answer the following questions for the period, I have chosen 2009-2016 by simply studying the data, by graphing and observing it and later Analyzing it. 
@@ -121,6 +121,8 @@ After reviewing the data and graph we can say that monetary policies set by ECB 
 
 ### ANSWER: 
 If I am investor and I am evaluating all of this, I say, well, yes, it is normal. To see unemployment, go up, to see inflation to go down, to see the fiscal deficit to go up, to see interest rates go to zero. But the elements of risk there. There is a risk with such a high unemployment rate which could cause instability, dissatisfaction, may be turmoil. There is risk of large recessionary gap. My market which I would like to serve as an investor is shrinking, right? There is a risk of that very, very low interest rate, the risk simply being that I can’t get it down any further. So monetary policy has reached its end, except for the non-conventional policies. Which would be quantitative easing for instance, which Europe eventually did. And I am thinking about risk of the debt, as we have said, that debt is now at the end of this period very high. The cost of servicing it has become very quiet high. These are risk for an investor because they don’t know what will happen to their taxes in the future. To the confident the foreigners in the economy in the future.  Will the interest rates go up further because foreigners are afraid Spain can’t pay debt?
+
+
 
 
   
