@@ -1,4 +1,4 @@
-# Understandong-Economic-Policymaking-Capston Project
+# Understanding-Economic-Policymaking-Capston Project
 
 ## PROJECT NAME: Case Study on SPAIN’S Economy during 2009 to 2016
 ## AUTHOR: RAQIB AQEEL
