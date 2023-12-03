@@ -2,7 +2,6 @@
 
 ## PROJECT NAME: Case Study on SPAIN’S Economy during 2009 to 2016
 ## AUTHOR: RAQIB AQEEL
-## DATE: 01/11/2021
 # INTRODUCTION: 
 Welcome to my capstone project on SPAIN CASE STUDY BETWEEN 2009 TO 2016, that is part of specialization on Globalization, Economic Growth and Stability course-1 (one) Understanding Economic Policymaking on coursera platform.
 ## TASK:
